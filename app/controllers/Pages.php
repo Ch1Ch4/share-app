@@ -7,7 +7,7 @@
     public function index(){
       $data = [
         'title' => 'Share-App',
-        'description' => 'Simple social network built on the MyMVC PHP framework',
+        'description' => 'Simple social network built on the MyMVC PHP framework'
       ];
      
       $this->view('pages/index', $data);
