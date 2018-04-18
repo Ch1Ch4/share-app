@@ -11,3 +11,5 @@
   define('URLROOT', 'http://localhost/share-app');
   // Site Name
   define('SITENAME', 'share-app');
+  // App Version
+  define('APPVERSION', '1.0.0');
